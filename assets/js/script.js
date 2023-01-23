@@ -18,7 +18,7 @@ introJs()
 				title: '📩Mensagem',
 				element: document.querySelector('#textareaMsg'),
 				intro:
-					'Neste campo você pode nós contar o seu segredo mais profundo, prometemos guardá-lo às 7 chaves!🤐',
+					'Neste campo você pode contar o seu segredo mais profundo, prometemos guardá-lo às 7 chaves!🤐',
 			},
 			{
 				title: '🔑Criptografia',
@@ -29,13 +29,13 @@ introJs()
 			{
 				title: '🔒Operação',
 				element: document.querySelector('.operations'),
-				intro: 'Por ultimo, escolha qual tipo de operação você deseja realizar!',
+				intro: 'Por último, escolha qual o tipo de operação que você deseja realizar!',
 			},
 			{
 				title: '📣Dica Extra',
 				element: document.querySelector('#text'),
 				intro:
-					'Você pode clicar no no texto criptografado para copiá-lo para a area de transferência.',
+					'Você pode clicar no texto criptografado para copiá-lo para a área de transferência.',
 			},
 			{
 				title: '🔂Rever Tutorial',
