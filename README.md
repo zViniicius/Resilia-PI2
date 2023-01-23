@@ -3,7 +3,7 @@
   
   <h1>Projeto Individual 2-  <i>Mensagem Oculta</i></h1>
 <p align="center">Repositório destinado ao armazenamento do Projeto Individual referente módulo 2 do curso RESILIA - WEBDev</p></br>
-<a href="https://zviniicius.github.io/Resilia-PI2"><img src="https://iili.io/HcLOqZB.md.jpg" alt="Tela do Projeto"></a>
+<a href="https://zviniicius.github.io/Resilia-PI2"><img src="https://iili.io/HlfE2ig.md.png" alt="Tela do Projeto"></a>
 <h3>Projeto desenvolvido utilizando HTML5, CSS3 e JavaScript com lib JQuery 3.5.1.</h3>
 A finalidade do projeto consiste em desenvolver uma aplicaçao capaz de codificar/decodificar textos utilizando como requisitos BASE64 e CIFRA DE CÉSAR. Como recurso extra, foi implantado também a <b>CIFRA DE VIGENÈRE.</b><br><br>
    
